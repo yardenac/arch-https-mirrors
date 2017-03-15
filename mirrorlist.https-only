@@ -57,7 +57,6 @@ Server = https://mirrors.rutgers.edu/archlinux/$repo/os/$arch
 Server = https://mirrors.prok.pw/archlinux/$repo/os/$arch
 Server = https://archlinux.thaller.ws/$repo/os/$arch
 Server = https://mirror.grig.io/archlinux/$repo/os/$arch
-Server = https://arch.relevant.lt/$repo/os/$arch
 Server = https://repo.sadjad.ac.ir/arch/$repo/os/$arch
 Server = https://mirror.jankoppe.de/$repo/os/$arch
 Server = https://mirrors.tuxns.net/archlinux/$repo/os/$arch
