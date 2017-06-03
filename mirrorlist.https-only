@@ -64,6 +64,7 @@ Server = https://ftp.acc.umu.se/mirror/archlinux/$repo/os/$arch
 Server = https://mirror.kku.ac.th/archlinux/$repo/os/$arch
 Server = https://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/$repo/os/$arch
 Server = https://mirror.osbeck.com/archlinux/$repo/os/$arch
+Server = https://mirror.kaminski.io/archlinux/$repo/os/$arch
 #Server = https://arch-mirror.wtako.net/$repo/os/$arch # blocks tor with captcha
 #Server = https://kwk.pw/arch/$repo/os/$arch # always down or 404s
 #Server = https://mirror.compojoom.com/archlinux/$repo/os/$arch # cert expired 2017-03-27
